@@ -1,0 +1,5 @@
+__pycache__/
+config.ini
+groups.json
+images
+.vscode/
